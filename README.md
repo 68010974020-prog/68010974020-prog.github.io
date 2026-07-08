@@ -60,7 +60,7 @@ Full Stack Developer ในอนาคต
 
 ## 📫 Contact
 
-- 📧 Email : your-email@gmail.com
+- 📧 Email : 68010974020@msu.ac.th
 - 💼 GitHub : https://github.com/68010974020-prog
 
 ---
