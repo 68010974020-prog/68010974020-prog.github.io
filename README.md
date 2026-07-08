@@ -17,15 +17,20 @@
 ปัจจุบันกำลังพัฒนาทักษะด้านการเขียนโปรแกรม
 เพื่อเตรียมความพร้อมสำหรับการฝึกงานและการทำงานในสายไอที
 
----
-
 ## 🛠 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,git,github,vscode" />
 </p>
 
-
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- PHP
+- MySQL
+- Oracle SQL
+- Git & GitHub
 ## 📚 Currently Learning
 
 - Responsive Web Design
